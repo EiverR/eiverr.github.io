@@ -43,6 +43,7 @@ Submitted. With Omar Colón-Reyes, Mario J. Motiño Palma, and Arnaldo Vera.
 Submitted. With Jhixon Macías.
 ## Exponential Sums of Long $k$-Cycles over Finite Fields via Generalized Lucas Sequences 
 Submitted. With Daniel Sierra (Graduate student).
+
 ### Current Projects
 
 - The weight and nonlinearity of quartic k-rotation symmetric Boolean functions
