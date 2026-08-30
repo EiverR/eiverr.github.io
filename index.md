@@ -41,7 +41,7 @@ With José E. Calderón-Gómez, Rodrigo A. León-Prato, and Luis A. Medina.
 Submitted. With Omar Colón-Reyes, Mario J. Motiño Palma, and Arnaldo Vera.
 ### On Generative Constants for Integer Sequences 
 Submitted. With Jhixon Macías.
-## Exponential Sums of Long $k$-Cycles over Finite Fields via Generalized Lucas Sequences 
+### Exponential Sums of Long $k$-Cycles over Finite Fields via Generalized Lucas Sequences 
 Submitted. With Daniel Sierra (Graduate student).
 
 ### Current Projects
