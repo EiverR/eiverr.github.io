@@ -29,7 +29,7 @@ I am a mathematician primarily interested in discrete dynamical systems, Boolean
 
 <div id="publications" class="section-anchor"></div>
 
-## Publications
+## Publications & Scientific Contributions
 
 ### On the composition operator with variable integrability
 *AIMS Mathematics* **10**(2) (2025), 2021–2041.<br>
@@ -43,7 +43,10 @@ Submitted. With Omar Colón-Reyes, Mario J. Motiño Palma, and Arnaldo Vera.
 Submitted. With Jhixon Macías.
 ### Exponential Sums of Long $k$-Cycles over Finite Fields via Generalized Lucas Sequences 
 Submitted. With Daniel Sierra (Graduate student).
-### Proved the A229899 conjecture by reduction to Cohen et al.'s (2015) theorem and proving the $p=2$ edge case.
+### \href{https://oeis.org/A229899}{\textbf{A229899}} (2026).
+        Comment identifying that Theorem 1 of Cohen, Oliveira e Silva and
+        Trudgian (2015) resolves Zhi-Wei Sun's conjecture on three
+        consecutive primitive roots mod $p$.
 ### Current Projects
 
 - The weight and nonlinearity of quartic k-rotation symmetric Boolean functions
