@@ -43,7 +43,7 @@ Submitted. With Omar Colón-Reyes, Mario J. Motiño Palma, and Arnaldo Vera.
 Submitted. With Jhixon Macías.
 ### Exponential Sums of Long $k$-Cycles over Finite Fields via Generalized Lucas Sequences 
 Submitted. With Daniel Sierra (Graduate student).
-
+### Proved the A229899 conjecture by reduction to Cohen et al.'s (2015) theorem and proving the $p=2$ edge case.
 ### Current Projects
 
 - The weight and nonlinearity of quartic k-rotation symmetric Boolean functions
