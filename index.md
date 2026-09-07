@@ -29,7 +29,7 @@ I am a mathematician primarily interested in discrete dynamical systems, Boolean
 
 <div id="publications" class="section-anchor"></div>
 
-## Publications & Scientific Contributions
+## Publications
 
 ### On the composition operator with variable integrability
 *AIMS Mathematics* **10**(2) (2025), 2021–2041.<br>
@@ -47,6 +47,10 @@ Submitted. With Daniel Sierra (Graduate student).
         Comment identifying that Theorem 1 of Cohen, Oliveira e Silva and
         Trudgian (2015) resolves Zhi-Wei Sun's conjecture on three
         consecutive primitive roots mod $p$.
+## Other Research Contributions
+
+**The On-Line Encyclopedia of Integer Sequences**
+- [**A229899**](https://oeis.org/A229899) (2026). Comment identifying that Theorem 1 of Cohen, Oliveira e Silva and Trudgian (2015) resolves Zhi-Wei Sun's conjecture on three consecutive primitive roots mod *p*.        
 ### Current Projects
 
 - The weight and nonlinearity of quartic k-rotation symmetric Boolean functions
