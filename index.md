@@ -43,12 +43,7 @@ Submitted. With Omar Colón-Reyes, Mario J. Motiño Palma, and Arnaldo Vera.
 Submitted. With Jhixon Macías.
 ### Exponential Sums of Long $k$-Cycles over Finite Fields via Generalized Lucas Sequences 
 Submitted. With Daniel Sierra (Graduate student).
-### \href{https://oeis.org/A229899}{\textbf{A229899}} (2026).
-        Comment identifying that Theorem 1 of Cohen, Oliveira e Silva and
-        Trudgian (2015) resolves Zhi-Wei Sun's conjecture on three
-        consecutive primitive roots mod $p$.
 ## Other Research Contributions
-
 **The On-Line Encyclopedia of Integer Sequences**
 - [**A229899**](https://oeis.org/A229899) (2026). Comment identifying that Theorem 1 of Cohen, Oliveira e Silva and Trudgian (2015) resolves Zhi-Wei Sun's conjecture on three consecutive primitive roots mod *p*.        
 ### Current Projects
