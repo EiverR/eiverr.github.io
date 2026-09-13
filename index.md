@@ -51,7 +51,7 @@ Submitted. With Daniel Sierra (Graduate student).
 
 - [**A229899**](https://oeis.org/A229899) (2026). Comment identifying that Theorem 1 of Cohen, Oliveira e Silva and Trudgian (2015) resolves Zhi-Wei Sun's conjecture on three consecutive primitive roots mod *p*.
 
-- [**A055272**](https://oeis.org/A055272) (2026). Comment proving the De Koninck–Mercier conjecture that the decimal expansion of $1/7^n$ has period length $6 \cdot 7^{n-1}$ for every $n \ge 1$, using the lifting theorem for primitive roots.      
+- [**A055272**](https://oeis.org/A055272) (2026). Comment proving the De Koninck–Mercier conjecture that the decimal expansion of $1/7^n$ has period length $6 \cdot 7^{n-1}$ for every $n \geq 1$, using the lifting theorem for primitive roots.      
 ### Current Projects
 
 - The weight and nonlinearity of quartic k-rotation symmetric Boolean functions
