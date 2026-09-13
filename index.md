@@ -45,7 +45,13 @@ Submitted. With Jhixon Macías.
 Submitted. With Daniel Sierra (Graduate student).
 ## Other Research Contributions
 **The On-Line Encyclopedia of Integer Sequences**
-- [**A229899**](https://oeis.org/A229899) (2026). Comment identifying that Theorem 1 of Cohen, Oliveira e Silva and Trudgian (2015) resolves Zhi-Wei Sun's conjecture on three consecutive primitive roots mod *p*.        
+- [**A002895**](https://oeis.org/A002895) (2026). Comment identifying that Theorem 1.2 of Zhu and Sun (2018) proves Zhi-Wei Sun's conjecture on the positivity, integrality and oddness of normalized Hankel determinants of Domb numbers.
+
+- [**A229910**](https://oeis.org/A229910) (2026). Comment identifying that Corollary 2 of Cohen, Oliveira e Silva, Sutherland and Trudgian (2018) proves Zhi-Wei Sun's conjecture on primitive roots g with g + g^(-1) also primitive mod *p*, and provides counterexamples to the stated finite-field extensions.
+
+- [**A229899**](https://oeis.org/A229899) (2026). Comment identifying that Theorem 1 of Cohen, Oliveira e Silva and Trudgian (2015) resolves Zhi-Wei Sun's conjecture on three consecutive primitive roots mod *p*.
+
+- [**A055272**](https://oeis.org/A055272) (2026). Comment proving the De Koninck–Mercier conjecture that the decimal expansion of $1/7^n$ has period length $6 \cdot 7^{n-1}$ for every $n \ge 1$, using the lifting theorem for primitive roots.      
 ### Current Projects
 
 - The weight and nonlinearity of quartic k-rotation symmetric Boolean functions
