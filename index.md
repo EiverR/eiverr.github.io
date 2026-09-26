@@ -48,7 +48,9 @@ Submitted. With Daniel Sierra (Graduate student).
 - [A055272](https://oeis.org/A055272): proof of the De Koninck–Mercier conjecture on the period of $1/7^n$.
 - [A002895](https://oeis.org/A002895): Sun's conjecture on Hankel determinants of Domb numbers, settled by Zhu–Sun (2018).
 - [A229910](https://oeis.org/A229910): Sun's conjecture on primitive roots $g$ with $g+g^{-1}$ primitive, settled by Cohen et al. (2018); counterexamples to its finite-field extensions.
-- [A229899](https://oeis.org/A229899): Sun's conjecture on three consecutive primitive roots, settled by Cohen–Oliveira e Silva–Trudgian (2015).   
+- [A229899](https://oeis.org/A229899): Sun's conjecture on three consecutive primitive roots, settled by Cohen–Oliveira e Silva–Trudgian (2015).
+- [A008365](https://oeis.org/A008365): counterexample to Detlefs's conjecture on 13-rough numbers and proof of the corrected modular characterization.
+- [A053175](https://oeis.org/A053175): Sun's conjecture on Hankel determinants of Catalan–Larcombe–French numbers, settled by Zhu–Sun (2018). 
 ### Current Projects
 
 - The weight and nonlinearity of quartic k-rotation symmetric Boolean functions
