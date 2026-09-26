@@ -44,14 +44,11 @@ Submitted. With Jhixon Macías.
 ### Exponential Sums of Long $k$-Cycles over Finite Fields via Generalized Lucas Sequences 
 Submitted. With Daniel Sierra (Graduate student).
 ## Other Research Contributions
-**The On-Line Encyclopedia of Integer Sequences**
-- [**A002895**](https://oeis.org/A002895) (2026). Comment identifying that Theorem 1.2 of Zhu and Sun (2018) proves Zhi-Wei Sun's conjecture on the positivity, integrality and oddness of normalized Hankel determinants of Domb numbers.
-
-- [**A229910**](https://oeis.org/A229910) (2026). Comment identifying that Corollary 2 of Cohen, Oliveira e Silva, Sutherland and Trudgian (2018) proves Zhi-Wei Sun's conjecture on primitive roots g with g + g^(-1) also primitive mod *p*, and provides counterexamples to the stated finite-field extensions.
-
-- [**A229899**](https://oeis.org/A229899) (2026). Comment identifying that Theorem 1 of Cohen, Oliveira e Silva and Trudgian (2015) resolves Zhi-Wei Sun's conjecture on three consecutive primitive roots mod *p*.
-
-- [**A055272**](https://oeis.org/A055272) (2026). Comment proving the De Koninck–Mercier conjecture that the decimal expansion of $1/7^n$ has period length $6 \cdot 7^{n-1}$ for every $n \geq 1$, using the lifting theorem for primitive roots.      
+**OEIS** (2026)
+- [A055272](https://oeis.org/A055272): proof of the De Koninck–Mercier conjecture on the period of $1/7^n$.
+- [A002895](https://oeis.org/A002895): Sun's conjecture on Hankel determinants of Domb numbers, settled by Zhu–Sun (2018).
+- [A229910](https://oeis.org/A229910): Sun's conjecture on primitive roots $g$ with $g+g^{-1}$ primitive, settled by Cohen et al. (2018); counterexamples to its finite-field extensions.
+- [A229899](https://oeis.org/A229899): Sun's conjecture on three consecutive primitive roots, settled by Cohen–Oliveira e Silva–Trudgian (2015).   
 ### Current Projects
 
 - The weight and nonlinearity of quartic k-rotation symmetric Boolean functions
@@ -60,7 +57,9 @@ Submitted. With Daniel Sierra (Graduate student).
 - On monomial k-dihedral symmetric Boolean functions
 
 <div id="teaching" class="section-anchor"></div>
+## Academic Service
 
+- **Reviewer**, *Mathematical Reviews* (MathSciNet), American Mathematical Society, 2026–present.
 ## Teaching
 
 I have served as instructor and teaching assistant in Basic Mathematics, Precalculus I and II, and Calculus I, II, and III, as well as in bridge, immersion, and mathematical enrichment programs.
