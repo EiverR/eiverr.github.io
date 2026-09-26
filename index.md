@@ -59,7 +59,8 @@ Submitted. With Daniel Sierra (Graduate student).
 <div id="teaching" class="section-anchor"></div>
 ## Academic Service
 
-- **Reviewer**, *Mathematical Reviews* (MathSciNet), American Mathematical Society, 2026–present.
+- Reviewer, *Mathematical Reviews* (MathSciNet), American Mathematical Society, 2026–present.
+  
 ## Teaching
 
 I have served as instructor and teaching assistant in Basic Mathematics, Precalculus I and II, and Calculus I, II, and III, as well as in bridge, immersion, and mathematical enrichment programs.
