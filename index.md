@@ -15,7 +15,7 @@ title: Home
 
 ## About
 
-I am a mathematician primarily interested in discrete dynamical systems, Boolean functions, control theory, and cryptography. My research explores how algebraic and graph theoretic structures shape the behavior of nonlinear systems. In my work, I have studied transient dynamics in Boolean monomial dynamical systems, stabilizability conditions for monomial control systems, and the nonlinearity of k-rotation symmetric Boolean functions through Walsh-Hadamard analysis. I have also worked on composition operators on variable-exponent Lebesgue spaces. Although real analysis is not my strongest area, it is a subject I genuinely enjoy.
+I am a mathematician primarily interested in discrete dynamical systems, Boolean functions, control theory, and cryptography. In my work, i have studied transient dynamics in Boolean monomial dynamical systems, stabilizability conditions for monomial control systems, and the nonlinearity of k-rotation symmetric Boolean functions through Walsh-Hadamard analysis. I have also worked on composition operators on variable exponent Lebesgue spaces. Although real analysis is not my strongest area, it is a subject I genuinely enjoy.
 
 <div id="snapshot" class="section-anchor"></div>
 
