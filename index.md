@@ -57,6 +57,7 @@ Submitted. With Daniel Sierra (Graduate student).
 - On monomial k-dihedral symmetric Boolean functions
 
 <div id="teaching" class="section-anchor"></div>
+
 ## Academic Service
 
 - Reviewer, *Mathematical Reviews* (MathSciNet), American Mathematical Society, 2026–present.
